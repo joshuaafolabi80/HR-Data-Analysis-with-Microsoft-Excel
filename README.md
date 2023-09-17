@@ -1,19 +1,19 @@
 # HR-Data-Analysis-with-Microsoft-Excel
 ## Table of Contents
-•	#### Introduction
-•	#### Getting Started
-•	#### Dataset
-•	#### Data Preparation
-•	#### Descriptive Analytics
-•	#### Data Visualization
-•	#### Dashboard Creation
-•	#### Project Goals
-•	#### Result
-•	#### Acknowledgment
-•	#### Dependencies
-•	#### Contribution
-•	#### Conclusion
-•	#### Contact
+•	Introduction
+•	Getting Started
+•	Dataset
+•	Data Preparation
+•	Descriptive Analytics
+•	Data Visualization
+•	Dashboard Creation
+•	Project Goals
+•	Result
+•	Acknowledgment
+•	Dependencies
+•	Contribution
+•	Conclusion
+•	Contact
 
 ## Introduction
 This README provides a brief overview and guidance on how to perform HR data analytics using Microsoft Excel. Human Resources (HR) data analytics is a valuable practice that helps organizations make informed decisions related to their workforce, recruitment, retention, and performance management. In this guide, we will cover the essential steps to analyze HR data using Microsoft Excel, including data preparation, analysis, and visualization.
@@ -61,6 +61,6 @@ HR data analytics using Microsoft Excel can provide valuable insights for HR pro
 
 ## Contact
 For questions or inquiries, please contact: joshuaafolabi80@gmail.com 
-[facebook.com/Gbenga Afolabi]
-[twitter.com/GbengaAf1]
-[linkedin.com/gbenga-afolabi]
+(facebook.com/Gbenga Afolabi)
+(twitter.com/GbengaAf1)
+(linkedin.com/gbenga-afolabi)
